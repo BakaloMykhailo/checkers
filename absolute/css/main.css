@@ -14,10 +14,10 @@ body{
 	height:12.5%;
 	margin:0;
 }
-.row div{
-	position: absolute;
-	width: 12.5%;
-	height: 12.5%;
+.row div {
+    position: absolute;
+    width: 12.5%;
+    height: 12.5%;
 }
 .row div:after{
 	content:"";
