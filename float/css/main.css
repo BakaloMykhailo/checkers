@@ -45,7 +45,7 @@ body{
 }
 .row:nth-child(6)>.cell:nth-child(even):after,
 .row:nth-child(7)>.cell:nth-child(odd):after,
-.row:nth-child(8)>.cell:nth-child(even):after{
-    background:#d3decd;
+.row:nth-child(8)>.cell:nth-child(even):after {
+    background: #d3decd;
 }
 
